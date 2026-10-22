@@ -1,7 +1,7 @@
 import { profile } from "@/data/profile";
 
 export default function Footer() {
-  const year = new Date().getFullYear();
+  const year = 2026;
 
   return (
     <footer className="border-t border-border py-8">
